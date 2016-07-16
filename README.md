@@ -1,4 +1,4 @@
-![Kirby LISTER](kirby-lister_logotype.png"Kirby LISTER")
+![Kirby LISTER](kirby-lister_logotype.png "Kirby LISTER")
 
 # [Kirby LISTER](https://github.com/1n3JgKl9pQ6cUMrW/kirby-lister)
 
