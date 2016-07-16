@@ -48,4 +48,4 @@ Kirby LISTER is a field, like the others.
 
 ![Kirby LISTER](kirby-lister_screencapture.gif "Kirby LISTER")
 
-*Kirby LISTER - a file picker with a preview*
+*Kirby LISTER - a file picker with a (pre-) view*
