@@ -134,7 +134,9 @@ ul.selectboxit-options.selectboxit-list {
 }
 
 .selectboxit-option:not(.no-preview):hover .selectboxit-option-icon {
+  -webkit-transform: scale(2);
   transform: scale(2);
+  -webkit-transform-origin: 0 center;
   transform-origin: 0 center;
   border: 1px solid #fff;
   border-left-width: 2px;
@@ -143,6 +145,7 @@ ul.selectboxit-options.selectboxit-list {
 }
 
 .selectboxit-option.selectboxit-option-last:hover .selectboxit-option-icon {
+  -webkit-transform-origin: 0 26px;
   transform-origin: 0 26px;
 }
 
