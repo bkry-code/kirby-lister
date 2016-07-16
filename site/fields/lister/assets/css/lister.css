@@ -38,6 +38,10 @@ span.selectboxit.lister.selectboxit-enabled.selectboxit-btn {
 
 /* Selected image */
 
+.selectboxit-container .selectboxit-option-icon {
+  background-color: #eee;
+}
+
 .selectboxit-option-first span.selectboxit-option-icon-container,
 span.selectboxit-option-icon-container {
   background-color: #ccc;
@@ -155,6 +159,7 @@ ul.selectboxit-options.selectboxit-list {
   border-left: 1px solid #8dae28;
   height: 100% !important;
   width: 40px;
+  background: #fff;
 }
 
 .selectboxit-default-arrow {
