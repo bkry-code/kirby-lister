@@ -50,7 +50,6 @@ function lister__get_asset_list() {
     lister__asset_name = $(this).data('helper');
 
     if (lister__asset_source == null) {
-      lister__asset_source = 'null';
       var lister__classname = ' class="no-preview"';
       lister__debug('asset : null');
     } else {
