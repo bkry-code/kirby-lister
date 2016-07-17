@@ -1,5 +1,7 @@
+var lister__debugging = false;
+
 function lister__debug(msg) {
-  if (window.console) {
+  if (window.console && lister__debugging) {
     console.log('[lister] ' + msg);
   }
 }
