@@ -36,6 +36,8 @@ $.fn.lister = function() {
 
         if ($(lister__asset_sidebar).length) {
           lister__get_asset_list();
+        } else {
+          $('.lister_loader').text(lister__empty_text).addClass('lister_empty');
         }
 
       }
