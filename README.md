@@ -26,6 +26,7 @@ By default, no `config` is needed. But you can set your text / string preference
 ```
 c::set('lister_loading', 'I am building the asset list, please wait...');
 c::set('lister_select', 'You have to select a file first...');
+c::set('lister_empty', 'No assets found on this page...');
 ```
 
 ### Usage
