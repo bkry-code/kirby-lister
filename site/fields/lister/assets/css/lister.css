@@ -7,7 +7,7 @@ select.lister,
 
 .lister_loader,
 span.selectboxit.lister.selectboxit-enabled.selectboxit-btn {
-  border: 2px solid #8dae28;
+  border: 2px solid #ddd;
   width: 100%;
   padding: .6em;
   background: #fff;
@@ -15,6 +15,14 @@ span.selectboxit.lister.selectboxit-enabled.selectboxit-btn {
   border-radius: 0;
   min-height: 42px;
   max-height: 42px;
+}
+
+span.selectboxit.lister.selectboxit-enabled.selectboxit-btn.selectboxit-focus {
+  border-color: #8dae28;
+}
+
+span.selectboxit.lister.selectboxit-enabled.selectboxit-btn.selectboxit-focus .selectboxit-arrow-container {
+  border-left: 1px solid #8dae28;
 }
 
 .lister_loader {
@@ -163,7 +171,7 @@ ul.selectboxit-options.selectboxit-list {
 /* Pulldown arrow */
 
 .selectboxit-arrow-container {
-  border-left: 1px solid #8dae28;
+  border-left: 1px solid #ddd;
   height: 100% !important;
   width: 40px;
   background: #fff;

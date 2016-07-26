@@ -6,6 +6,10 @@
 
 - Initial Public Offering.
 
+#### Version 1.1.5 - 2016-07-26
+
+- Better styling.
+
 ****
 
 ### What is it?
